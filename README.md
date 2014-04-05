@@ -1,7 +1,7 @@
 <h1>Snow - Coming Soon Template </h1>
-This is a Free Coming Soon Template.
-
-<h1>Feature List:<h1/>
+This is a Free Coming Soon Template.<br/>
+![ScreenShot](http://demo.gulangguling.com/snowcomingsoon/docs/assets/layout-style/preview.jpg)
+<h1>Feature List:</h1>
 
 * Bootstrap v2.2.1
 * HTML5/CSS3
@@ -12,8 +12,6 @@ This is a Free Coming Soon Template.
 * 33 Social Network Icons ( www.vervex.deviantart.com )
 
 <br/>
-![ScreenShot](http://demo.gulangguling.com/snowcomingsoon/docs/assets/layout-style/preview.jpg)
- 
-+ <a href="http://goo.gl/bXMFlT";>Demo</a>
+   <h2><a href="http://demo.gulangguling.com/snowcomingsoon/";>Demo</a></h2>
 
  
