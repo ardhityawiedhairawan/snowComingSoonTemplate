@@ -1,0 +1,143 @@
+/* Coming Soon style  */
+/* Author by : Ardhitya Wiedha Irawan ardhityawiedhairawan@gmail.com @papap_aila www.gulangguling.com */
+
+body{
+	background: #66ccff;
+	padding: 0px;
+	font-family:  Verdana, Helvetica, sans-serif;
+	font-size: 400 13px/1.6;
+	color:#fff;
+}
+
+
+/* ##Header,section,h1,p
+-------------------------------------------------- */
+header{
+	background:  url("../images/header.png") repeat-x;
+	width: auto;
+	height: 100px;
+	padding: 0;
+}
+
+section{
+	margin: 30px 0px 20px 0px;
+}
+h1 {
+	font: 400 80px/1.1 Georgia, serif;
+}
+ 
+p {
+	font: 400 12px/1.6 Verdana, Helvetica, sans-serif;
+}
+
+
+/* ##Container
+-------------------------------------------------- */
+
+.container-center{
+	text-align: center;
+}
+
+
+/* ##countdowntimer
+-------------------------------------------------- */
+.container-center #countdowntimer{
+	max-width: 410px;
+	height: 100px;
+	margin: -23px auto -10px;
+}
+
+.container form{
+	font-size: 13px;
+}
+
+.container button{
+	font-size: 13px;
+}
+
+/* ##twitter feed
+-------------------------------------------------- */
+#ticker ul.tweet_list {
+	font-family:  Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 410px;
+	height:4em;
+	overflow-y:hidden;
+	margin: -23px auto 10px;
+	margin-bottom: 10px;
+}
+#ticker .tweet_list li {
+	height: 6em;	
+}
+
+/* ##footer
+-------------------------------------------------- */
+footer{
+	text-align: center;
+	margin-top: 40px;
+	font-size: 13px;
+}
+
+/* ##Settings (remove if not needed)
+-------------------------------------------------- */
+.settings{
+	background: url('../images/custom.gif') no-repeat;
+	display: block;
+	height: 29px;
+	width: 29px;
+	position: absolute;
+	top: 45%;
+	opacity: 0.5;
+	border-radius: 0 5px 5px 0;
+}
+
+.settings:hover {
+	cursor:pointer;
+}
+
+#settings {
+	display:none;
+	position:absolute;
+	top:20%;
+	border-radius:0 8px 8px 0;
+	padding:3px;
+	background:rgba(0,0,0,0.2);
+	vertical-align:top;
+	font-size:10px;
+	padding:10px;
+	width:150px;
+	vertical-align:top;
+}
+
+#settings label {
+	display:inline-block;
+	cursor:pointer;
+	width:125px;
+	font-size:11px;
+	float:left;
+}
+#settings span {
+	margin:0;
+	display:block;
+	font-size:11px;
+}
+#settings span:nth-of-type(3) {
+	margin-top:15px;
+}
+
+#settings .close {
+	margin-top:15px;
+	color:red;
+	cursor:pointer;
+}
+#settings li {
+	display:inline-block;
+	text-indent:-9999px;
+	height:30px;
+	width:30px;
+	cursor:pointer;
+	border-radius:5px;
+}
+	
+	
+ /* Author by : Ardhitya Wiedha Irawan ardhityawiedhairawan@gmail.com @papap_aila www.gulangguling.com */
